@@ -3,7 +3,7 @@ adafruit-circuitpython-busdevice==4.3.1
 adafruit-circuitpython-mlx90614==1.2.1
 Adafruit-PlatformDetect==2.14.1
 Adafruit-PureIO==1.1.5
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 click==7.1.2
